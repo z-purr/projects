@@ -75,9 +75,9 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/b0c55d79-7da5-4880-b1fd-aac32ce7b662">
 
 - Bebop is a Web3 crypto trading platform and API designed for decentralized finance, enabling optimized token swaps across multiple blockchains.
-- 
+
 - It offers a self-custodial trading app and an API that allows other protocols to access its routing and liquidity.
-- 
+
 - Trades are executed by competing professional market makers (“solvers”) to deliver better pricing, lower slippage, and a smoother user experience.
 
 📌 **Live:** [Bebop](https://bebop.xyz/)
@@ -133,51 +133,51 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 ### **🟢 Critters Quest (NFT Game)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
 
--  Blockchain gaming & collectible platform
+- Blockchain gaming & collectible platform
 
--  Users stake & trade NFTs, earn rewards
+- Users stake & trade NFTs, earn rewards
 
-- 📌 **Live:** [critters.quest](https://critters.quest/)
-
-- 📌 **Repo:** [GitHub]()
+📌 **Live:** [critters.quest](https://critters.quest/)
+📌 **Repo:** [GitHub]()
 
 ---
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894">
 
--  Solana NFT staking & artifact rewards
+- Solana NFT staking & artifact rewards
 
 - Users mint NFTs & stake for rewards
 
-- 📌 **Live:** [floppylabs.io](https://floppylabs.io)
-
-- 📌 **Repo:** [FloppyLabs]()
+📌 **Live:** [floppylabs.io](https://floppylabs.io)
+📌 **Repo:** [FloppyLabs]()
 
 ---
 
-### **🟢 Artplex (NFT Launchpad)**
+### **🟢 Rekt Gang**
 
-- Anchor (Rust) smart contracts for secure minting & sales
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/477be5a1-a212-4c65-8cd6-3ffc9008b20a">
 
-- Solana NFT launchpad
+- Rekt Gang is a multichain, NFT-focused crypto community and DAO built to support users who have experienced losses in crypto and NFTs.
 
-- 📌 **Live:** [artplex.io](https://artplex.io/)
+- The DAO actively trades NFTs and participates in DeFi and crypto markets with the goal of growing its treasury and benefiting its members.
 
-- 📌 **Repo:** [Artplex]()
+- It also provides education, analytics, and community-driven tools to help members make better-informed decisions and avoid future losses.
+
+📌 **Live:** [rektgang.com](https://www.rektgang.com/)
+📌 **Docs:** [Comic](https://www.rektgang.com/comic)
 
 ---
 
 ### **🟢 HydraSwap (Solana DEX)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
 
--  Cross-chain DEX with **Hydra Market Maker (HMM)**
+- Cross-chain DEX with **Hydra Market Maker (HMM)**
 
 - Concentrated liquidity & impermanent loss reduction
 
-- 📌 **Live:** [hydraswap.io](https://hydraswap.io/)
-
-- 📌 **Repo:** [Smart Contracts]()
+📌 **Live:** [hydraswap.io](https://hydraswap.io/)
+📌 **Repo:** [Smart Contracts]()
 
 ---
 
@@ -186,9 +186,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - SPL token rewards, Next.js frontend, Anchor smart contracts
 
-- 📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
-
-- 📌 **Repo:** [Smart Contracts]()
+📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
+📌 **Repo:** [Smart Contracts]()
 
 ---
 
