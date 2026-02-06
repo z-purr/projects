@@ -40,119 +40,95 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ---
 
-## 🤖 Highlight Projects
-
 ### **🔷 Kitten Swap**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7134929a-ab82-4df4-85f8-3d6bb2626a5b">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/259ed84a-ae2f-4202-bda7-29a2ae53ac55">
 
-- Web3 fitness + AI NFT progression platform
+- Kittenswap is a decentralized exchange built on emerging blockchains like HyperEVM and Hyperliquid.
 
-- AI-powered recommendations using **LangGraph + ChromaDB + Ollama LLMs**
+- Users lock KITTEN tokens to gain governance power and earn rewards through a ve(3,3) model.
 
-- Off-chain fighter attributes, OpenSea metadata updates, wallet-connected frontend
+- The protocol incentivizes long-term participation by sharing fees and emissions with committed holders.
 
-- Performance: ~10ms response times, 70% DB query reduction  
-
-📌 **Live:** [unbound.games](https://www.unbound.games/)
-📌 **Repos:** [Github](https://github.com/Fighters-Unbound/fighters-unbound)
+📌 **Live:** [kittenswap.finance](https://kittenswap.finance/)
+📌 **Docs:** [Docs](https://docs.kittenswap.finance/introduction)
 
 ---
 
-### **🔷 Nyx Cipher (EVM & Solana)**
+### **🔷 Totem Finance**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/377f8819-d786-46e0-889b-6470457d0854">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/bf7c0aba-fef6-448b-9f7b-6c9cce287d40">
 
-- AI-driven blockchain agent for trading & social intelligence
+- TotemFi is a decentralized finance prediction platform that offers rewards in Bitcoin and its native token.
 
-- Integrates smart contracts with AI processing to optimize decisions
+- It leverages blockchain technology to address inefficiencies found in traditional prediction and financial markets.
 
-- Amplifies productivity 10x, cuts research time by 90%  
+- The platform aims to provide an accessible, lower-risk environment by tokenizing predictions on future asset prices and event
 
-📌 **Live:** [nyxcipher.ai](https://nyxcipher.ai/)
-📌 **Repo:** [Backend](https://github.com/OnChainMee/nyx-cipher/backend)
-
----
-
-## 💎 EVM Projects
-
-### **🔷 Onchain-Experiments_V1(EVM)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5074e654-17ea-4331-863f-c83f2e287152">
-
-- this project is a fully on-chain, generative NFT platform where artwork, metadata, and logic are permanently generated and stored directly on the blockchain, without external servers, IPFS
-
-- 100% on-chain, generative NFT system where each token's image and metadata are generated in real-time using SVG code via smart contracts 
-
-- 📌 **Live:** [Onchain Experiments](https://www.onchainexperiments.xyz/)
-
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/onchain-experiments-v1)
-
-### **🔷 Yieldz Lending (Polygon)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
-
-- Multi-layered DeFi lending with real-yield mechanisms
-
-- Solidity 
-
-- 📌 **Live:** [yieldzprotocol.com](https://yieldzprotocol.com/)
-
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/360-Defi-SmartContract) / [Frontend](https://github.com/OnChainMee/Yieldz-Defi-Frontend)
-
-### **🔷 DigiMonkz (NFT Staking)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7524314b-0937-4fe6-b595-374c407077ae">
-
-- Web3 NFT staking platform, GEN111/GEN2 NFTs, artifact rewards
-
-- 📌 **Live:** [digimonkz.com](https://digimonkz.com/)
-
-- 📌 **Repo:** [Smart Contract](https://github.com/OnChainMee/DigiMonkz-Staking) / [Frontend](https://github.com/OnChainMee/DigiMokz-Frontend)
+📌 **Live:** [totemfi.com](https://www.totemfi.com/)
+📌 **Contract:** [Address](https://etherscan.io/address/0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a)
 
 ---
 
-## 💜 Solana Projects
+### **🔷 Bebop**
 
-### **🟢 Slither Game (Solana)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/9e579ebd-81f3-4314-92d7-0d59989d8a04">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/b0c55d79-7da5-4880-b1fd-aac32ce7b662">
 
-- Real-time multiplayer game platform built for low-latency, high-concurrency gameplay
+- Bebop is a Web3 crypto trading platform and API designed for decentralized finance, enabling optimized token swaps across multiple blockchains.
+- 
+- It offers a self-custodial trading app and an API that allows other protocols to access its routing and liquidity.
+- 
+- Trades are executed by competing professional market makers (“solvers”) to deliver better pricing, lower slippage, and a smoother user experience.
 
-- Combines WebSockets, Redis, and scalable backend services for instant state synchronization
+📌 **Live:** [Bebop](https://bebop.xyz/)
+📌 **Post:** [Medium](https://medium.com/bebop-dex/)
 
-- Delivers smooth, production-grade multiplayer performance at scale
+---
 
-- 📌 **Live:** [Slither](https://pvplabs.xyz/)
+### **🔷 Bet Big**
 
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/pvplabs/backend)/[Frontend](https://github.com/OnChainMee/pvplabs/frontend)
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7aebb6b6-5d86-4f9f-a01d-d9d90ceda200">
+
+- betBIG is a crypto gambling (GambleFi) platform built on Blast, positioning itself as the main gambling hub within the ecosystem.
+
+- It aggregates on-chain casino-style games and decentralized betting experiences.
+
+- The platform distributes 100% of its profits to token stakers, directly aligning users with protocol revenue.
+
+📌 **Live:** [betBIG](https://betbig.gg/)
+📌 **Contact:** [X](https://x.com/BetBIG_gg/)
+
+---
+
+### **🔷 Blast Penguins**
+
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/cb5f852a-3dce-408b-a14d-373b3a6e96ab">
+
+- Blast Penguins is an NFT collection built on the Blast blockchain.
+
+- Total supply: 3,333 unique NFTs
+
+- Positioned as one of the first and biggest NFT communities on Blast L2.
+
+📌 **Live:** [Blast Penguins](http://blastpenguins.xyz/)
+📌 **Collection:** [blur.io](https://blur.io/blast/collection/blastpenguin)
+
+---
 
 ### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fc0ed620-c590-4de5-8ef2-a05d0ccf2c7b">
 
-- **Fully Non-Custodial**: Your wallet, your keys—Luck.io never holds your funds. Connect your Solana wallet (e.g., Phantom, Solflare) and play directly.
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/1b8ee9e9-befd-42d0-b02c-86b0953acc85">
 
-- **No KYC Required**: Privacy-first design; start playing anonymously without sharing personal information.
+- Luck is a decentralized, non-custodial crypto casino built on the Solana blockchain, allowing users to gamble directly from their own wallets without accounts or KYC.
 
-- **Solana-Powered**: Lightning-fast transactions with low fees, thanks to Solana's high-throughput blockchain
+- It offers on-chain, provably fair games such as slots, roulette, crash, and Plinko, with all bets and payouts executed via smart contracts.
 
-- **Provably Fair Games**: All outcomes are verifiable on-chain, ensuring transparency and fairness.
+- While the platform provides rewards through tokens and loyalty incentives, it remains a gambling product and users should participate cautiously, understanding the associated risks.
 
-- **Offline Mode Support**: Switch to offline mode for testing or demo purposes without connecting to the blockchain.
+📌 **Live:** [Luck.io](https://luck.io/)
+📌 **Contact:** [X](https://x.com/luckio/)
 
-- **JavaScript-Enabled App**: Modern web interface requiring JavaScript for full functionality.
-
-- 📌 **Live:** [Luck.io](https://luck.io/)
-
-- 📌 **Repo:** [GitHub](https://github.com/OnChainMee/Luck.io-casino-game)
-
-### **🟢 Nutmarket (NFT Marketplace)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
-
-- NFT Marketplace & Games (Spin / Auction)
-
-- Forked MagicEden contracts for custom features
-
-- 📌 **Live:** [nut.market](https://nut.market)
-
-- 📌 **Repo:** [GitHub](https://github.com/OnChainMee/nut.market-marketplace)
+---
 
 ### **🟢 Critters Quest (NFT Game)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
@@ -163,8 +139,9 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [critters.quest](https://critters.quest/)
 
-- 📌 **Repo:** [GitHub](https://github.com/OnChainMee/critters-quest)
+- 📌 **Repo:** [GitHub]()
 
+---
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894">
@@ -175,7 +152,9 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [floppylabs.io](https://floppylabs.io)
 
-- 📌 **Repo:** [FloppyLabs](https://github.com/OnChainMee/floppylabs-nft-staking)
+- 📌 **Repo:** [FloppyLabs]()
+
+---
 
 ### **🟢 Artplex (NFT Launchpad)**
 
@@ -185,7 +164,9 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [artplex.io](https://artplex.io/)
 
-- 📌 **Repo:** [Artplex](https://github.com/OnChainMee/artplex-nft-launchpad)
+- 📌 **Repo:** [Artplex]()
+
+---
 
 ### **🟢 HydraSwap (Solana DEX)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
@@ -196,7 +177,9 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [hydraswap.io](https://hydraswap.io/)
 
-- 📌 **Repo:** [Smart Contracts](https://github.com/OnChainMee/hydra-swap-HMM-dex)
+- 📌 **Repo:** [Smart Contracts]()
+
+---
 
 ### **🟢 Seek Syndicate (P2E Game)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
@@ -205,67 +188,10 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
 
-- 📌 **Repo:** [Smart Contracts](https://github.com/OnChainMee/SPLFaucetSmartContract)
+- 📌 **Repo:** [Smart Contracts]()
 
 ---
 
-## 🔥 Bitcoin Projects
-
-### **🟡 InternetJpegs (Ordinal Swap Project)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fe96dd68-50b3-4055-a0e6-011d84e6a989" />
-
-- Buy/swap ordinals, marketplace & chat
-
-- 📌 **Live:** [internetjpeg.com](https://internetjpeg.com/)
-
-- 📌 **Repo:** [Frontend](https://github.com/internetjpegs-com/Frontend) / [Backend](https://github.com/internetjpegs-com/Backend)
-
-### **🟡 ArcusLab (Bitcoin DeFi)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/182ea60e-66c1-4bb9-a05e-ef19ee6dd051">
-
-- Supply/borrow BTC & BRC20 tokens, over-collateralized
-
-- Integrates Deep Lake API, DLC, Oracle, AMM
-
-- 📌 **Live:** [arcusbtc.com](https://arcusbtc.com/)
-
-- 📌 **Repo:** [Backend](https://github.com/ArcusBTC/arcus-app) / [Frontend](https://github.com/ArcusBTC/ArcusLab-FE)
-
-### **🟡 AletheiasAgora (Bitcoin DApp)**
-
-- Ordinals minting, raffles, recursion, non-custodial staking
-
-- MultiSig enhanced security
-
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/COVault-App/tree/master/multisig-wallet)
-
-### **🟡 BMP BRC20 (BRC20 Airdrop)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/caee3d58-4038-4463-aeb8-8bbc5dc4c365">
-
-- Airdrop platform for BRC20 tokens (Taproot)
-
-- Supports Unisat, Leader, XVerse wallets
-
-- 📌 **Live:** [bmpbrc.com](https://bmpbrc.com/)
-
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/BRC20-withdraw-Backend) / [Frontend](https://github.com/OnChainMee/BRC20-withdraw-Frontend)
-
----
-
-## 🎮 Gaming & NFT Projects
-
-### **🟠 Playzelo (Multi-Chain GameFi)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5509f81c-9161-45c7-9196-2abaa4f43f4d">
-
-- Games: Scissors, Turtlerace, Mines, Dice, Plinko, Slot, Crash
-
-- Multi-chain: Bitcoin, Ethereum, Binance, Solana
-
-- 📌 **Live:** [playzelo.xyz](https://playzelo.xyz/)
-
-- 📌 **Repos:** [Backend](https://github.com/OnChainMee/scissors/tree/master/backend) / [Frontend](https://github.com/OnChainMee/scissors/tree/master/frontend) / [Admin](https://github.com/OnChainMee/scissors/tree/master/admin)
-
----
 
 ## 🔒 Security & Audits
 
@@ -273,16 +199,3 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 * Non-custodial staking & advanced security for Bitcoin, Solana & EVM
 
 ---
-
-## 📌 Get Involved
-
-🚀 Open to **freelance, full-time, or collaborative opportunities**
-
-📩 Contact: [Telegram @OnChainMee](https://t.me/OnChainMee)
-[Twitter @OnChainMee](https://x.com/OnChainMee)
-
----
-
-## 📜 License
-
-**MIT License**
