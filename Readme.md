@@ -131,11 +131,14 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 ---
 
 ### **🟢 Critters Quest (NFT Game)**
+
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
 
-- Blockchain gaming & collectible platform
+- Critters Quest is a Solana-based crypto gaming and NFT ecosystem built around “gaming collectibles that grow through gameplay,” powered by the $QUEST utility token.
 
-- Users stake & trade NFTs, earn rewards
+- Each Critter NFT functions as a token-bound asset that accumulates rewards, XP, and in-game items through quests, mini-games, and other on-chain activities.
+
+- The project emphasizes entertainment-focused utility rather than investment, with users encouraged to participate cautiously given the inherent risks of NFT and crypto gaming.
 
 📌 **Live:** [critters.quest](https://critters.quest/)
 📌 **Repo:** [GitHub]()
@@ -143,14 +146,17 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 ---
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894">
 
-- Solana NFT staking & artifact rewards
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5c64413a-581f-4b03-bc61-29d286599efa">
 
-- Users mint NFTs & stake for rewards
+- FloppyLabs is a staking-as-a-service platform primarily serving NFT projects within the Solana ecosystem.
+
+- It provides white-label, configurable NFT staking solutions that allow projects to offer rewards without building custom infrastructure.
+
+- As with any staking service, users should be aware of smart-contract and platform risks and participate only after reviewing project documentation and audits.
 
 📌 **Live:** [floppylabs.io](https://floppylabs.io)
-📌 **Repo:** [FloppyLabs]()
+📌 **Contact:** [X](https://x.com/FloppyLabs)
 
 ---
 
@@ -170,6 +176,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 ---
 
 ### **🟢 HydraSwap (Solana DEX)**
+
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
 
 - Cross-chain DEX with **Hydra Market Maker (HMM)**
@@ -181,13 +188,18 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ---
 
-### **🟢 Seek Syndicate (P2E Game)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
+### **🟢 Plutonians**
 
-- SPL token rewards, Next.js frontend, Anchor smart contracts
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5dd2b811-e8c3-4773-9604-a9a152453197">
 
-📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
-📌 **Repo:** [Smart Contracts]()
+- Plutonians is a Solana-based VR-enabled space RPG and MMO where players pilot NFT spaceships, explore galaxies, and participate in an on-chain economy.
+
+- The platform uses NFTs for ships and items, alongside multiple tokens for governance, gameplay, and in-game mechanics such as travel and trading.
+
+- As with any crypto-based game, participation involves market and project risk, so users should review the project’s development progress and token design before engaging.
+
+📌 **Live:** [plutonians.tech](https://plutonians.tech/)
+📌 **Docs:** [Medium](https://plutonians.medium.com/)
 
 ---
 
